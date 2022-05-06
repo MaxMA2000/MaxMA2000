@@ -1,5 +1,5 @@
 - 👋 Hi, MaxMAHK Here
-- 👀 I’m interested in Data Analysis Science, Web Application, etc
+- 👀 I’m interested in Data Science, Web Application, Mobile Development
 
 <!---
 MaxMAHK/MaxMAHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
